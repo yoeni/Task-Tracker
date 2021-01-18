@@ -1,0 +1,38 @@
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\Task Tracer.dll.config
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\Task Tracer.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\Task Tracer.pdb
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\csc.exe
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\csc.exe.config
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\csc.rsp
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\csi.exe
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\csi.rsp
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\System.AppContext.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\vbc.exe
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\vbc.exe.config
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\vbc.rsp
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\VBCSCompiler.exe
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\obj\Debug\Task Tracer.csprojAssemblyReference.cache
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\obj\Debug\Task Tracer.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\obj\Debug\Task Tracer.csproj.CopyComplete
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\obj\Debug\Task Tracer.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\obj\Debug\Task Tracer.pdb
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\MySql.Data.dll
+C:\Users\sezer\Desktop\ödev\2.sınıf\Yazılım Sınama Üst ders\proje ve ödev 4\Proje Ödevi\Task Tracer\Task Tracer\bin\MySql.Data.xml
