@@ -180,5 +180,11 @@ namespace Task_Tracer
             Session["add"] = "done";
             Response.Redirect("addtask.aspx");
         }
+
+        protected void cikisMobileButton_Click(object sender, EventArgs e)
+        {
+            Session["username"] = null;
+            Response.Redirect("default.aspx");
+        }
     }
 }

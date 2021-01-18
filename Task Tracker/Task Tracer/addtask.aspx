@@ -39,7 +39,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="logo-area">
                         <a href="#">
-                            <img src="img/logo/logo.png" alt="" /></a>
+                            <h1> <font face="Agency Fb" color="white">Tak Tracker</font></h1>
                     </div>
                 </div>
             </div>

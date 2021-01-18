@@ -39,7 +39,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="logo-area">
                         <a href="#">
-                            <img src="img/logo/logo.png" alt="" /></a>
+                            <h1> <font face="Agency Fb" color="white">Tak Tracker</font></h1>
                     </div>
                 </div>
             </div>
@@ -56,6 +56,7 @@
                                     <li><a data-target="#Charts" href="main.aspx">Home</a></li>
                                     <li><a href="addtask.aspx"><i class="notika-icon notika-edit"></i>Add Task</a></li>
                                     <li> <a ID="savebuttonmobile" OnClick="get_list_items();" Style="color: #009688; border-width: 2px; border-color: seagreen;"><i class="notika-icon notika-checked"></i> <b>KAYDET</b></a></li>
+                                    <li><asp:LinkButton ID="cikisMobileButton" Style="color: coral; border-width: 2px; border-color:coral;" runat="server" OnClick="cikisMobileButton_Click">Çıkış</asp:LinkButton></li>
                                 </ul>
                             </nav>
                         </div>
@@ -74,6 +75,9 @@
                             </li>
                             <%--<li style="float: right;"><a data-toggle="tab" href="#" onclick='get_list_items();' Style="color: #009688; border-width: 2px; border-color: seagreen;"><i class="notika-icon notika-checked"></i> <b>KAYDET</b></a>
                             </li>--%>
+                            <li style="float:right">
+                                <asp:LinkButton ID="LinkButton1" Style="color: coral; border-width: 2px; border-color:coral;" runat="server" OnClick="cikisMobileButton_Click">Çıkış</asp:LinkButton>
+                                </li>
                             <li style="float: right;">
                                 <a ID="savebutton" href="" OnClick="get_list_items();" Style="color: #009688; border-width: 2px; border-color: seagreen;"><i class="notika-icon notika-checked"></i> <b>KAYDET</b></a>
                                
